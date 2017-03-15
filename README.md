@@ -1,4 +1,4 @@
-<h1> React Router 4 lessons from Egghead <h1>
+<h2> React Router 4 lessons from Egghead </h2>
 
 <p>  Add routing to React apps using React Router v4 by Egghead.io </p>
 <p> Code copied from Egghead. </p>
